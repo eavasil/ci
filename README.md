@@ -1,1 +1,2 @@
-[![Build Status](https://app.travis-ci.com/eavasil/ci.svg?branch=master)](https://travis-ci.org/codecov/example-java)
+[![Build Status](https://app.travis-ci.com/eavasil/ci.svg?branch=master)]
+(https://app.travis-ci.com/github/eavasil/ci)
